@@ -75,4 +75,5 @@ ecommerce-analytics-portfolio/
 - `Profit` is an illustrative row-level estimate based on realized sales less cost of goods, shipping, and marketing spend.
 
 ## Author
-Add your name, portfolio link, and LinkedIn profile here.
+Name: SAJJAD MOOSA
+Email: sajjadmoosa651@gmail.com
